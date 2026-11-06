@@ -126,6 +126,7 @@ tricky_reviews = [
     "the support response was insanely quick",
     "chala bagundi",
     "parledu",
+    "baledu",
     "yemi baledu",
 ]
 
